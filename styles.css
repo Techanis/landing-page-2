@@ -113,7 +113,7 @@ button {
 
 .container-2 {
     display: flex;
-    padding: 80px 0;
+    padding: 60px 0;
     justify-content: center;
 }
 
@@ -159,7 +159,7 @@ button {
     background-color: #E5E7EB;
     display: flex;
     justify-content: center;
-    padding: 40px;
+    padding: 80px 40px;
 }
 
 .quote-container {
@@ -184,7 +184,6 @@ button {
 }
 
 /* container 4 -------------------------------------- */
-
 .container-4 .max-width-container {
     border-radius: 8px;
     background-color: #3882F6;
@@ -207,4 +206,16 @@ button {
 
 .container-4 .hero-button{
     border-color: white;
+}
+
+/* Footer -------------------------------------- */
+.footer {
+    background-color: #1F2937;
+    padding: 30px;
+}
+
+.footer-text {
+    color: #E5E7EB;
+    text-align: center;
+
 }
